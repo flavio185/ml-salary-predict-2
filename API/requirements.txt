@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+joblib
+sklearn
+numpy
+azure-core
